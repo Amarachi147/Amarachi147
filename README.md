@@ -40,6 +40,8 @@ I'm passionate about AI automation, intelligent agents, open-source collaboratio
 - SQL and data analysis
 - AI agents and intelligent systems
 - Open-source collaboration
+  
+### Portfolio: https://amarachi147.github.io
 
 ### 🤝 Let's Connect
 
